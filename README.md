@@ -246,13 +246,13 @@ Following the CRISP-DM methodology, I systematically addressed the sepsis predic
 
 # Author
 
-`Rasmo Wanyama`
+`Valentin UWAYO`
 
 `Data Analyst/Data Scientist`
 
 Let's connect on LinkedIn:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rasmo-/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uwayo-valentin-a12563168/) 
 
 
 # Acknowledgments:
