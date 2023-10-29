@@ -10,7 +10,7 @@ This project aims to provide a streamlined tool for healthcare professionals to 
 ## Summary
 |     Jupyter Notebook                       | Published Article|    Deployed App on Hugging Face
 | -------------                  | -------------    |    -----------------
-|[Notebook with code and full analysis](dev/Sepsis_ML_Prediction_Deployment_With_FastAPI.ipynb)|  [Published Article on Linkedln](https://www.linkedin.com/pulse/beginner-guide-fastapi-docker-huggingface-seamless-machine-valentin-zhcdf/) |[Link to working FastAPI](https://rasmodev-sepsis-prediction.hf.space/docs/)
+|[Notebook with code and full analysis](dev/Sepsis_ML_Prediction_Deployment_With_FastAPI.ipynb)|  [Published Article on Linkedln](https://www.linkedin.com/pulse/beginner-guide-fastapi-docker-huggingface-seamless-machine-valentin-zhcdf/) |[FastAPI Link](https://rasmodev-sepsis-prediction.hf.space/docs/)
 
 ## FastAPI Interface
 After clicking on the link to the working FastAPI, click on "Try It Out", add the patient's medical details, and click on the **"EXECUTE"** button.
